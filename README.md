@@ -15,4 +15,4 @@ I'm a **Freelance Software Developer** with over 12 years of experience in **ful
 ## 📫 Contact Me
 - Email: contact@alessandrosantamaria.com
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alereisan&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alereisan&layout=compact)
